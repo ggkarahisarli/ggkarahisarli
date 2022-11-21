@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Gamzegül👋
+A passionate Data Scientist Candidate with a Ph.D. in mathematics.
 <!--
 **ggkarahisarli/ggkarahisarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
