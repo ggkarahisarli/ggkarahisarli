@@ -1,7 +1,7 @@
 ### Hi there I'm Gamzegül👋
 A passionate data scientist candidate with a Ph.D. in mathematics.
 
-- 🌱 Data Science and Machine Learning Bootcamp Participant
+- 🌱 Miuul & VBO Data Science and Machine Learning Bootcamp Participant
 - 🔭 I’m currently learning Data Science and Machine Learning 
 
 
